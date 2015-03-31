@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROBRECHT</Machine>
+    <WindowsUser>Robrecht2</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0fb0ef40-f9ca-4c54-a280-018e6468155d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Bin\Debug\RestaurantVUB.dll">
+      <PackagePath>RestaurantVUB.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\HtmlAgilityPack.1.4.6\lib\sl4-windowsphone71\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\System.Xml.XPath.SL4.2.0.5.0\lib\System.Xml.XPath.dll">
+      <PackagePath>System.Xml.XPath.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\HtmlAgilityPack.1.4.6\lib\sl4-windowsphone71\HtmlAgilityPack.xml">
+      <PackagePath>HtmlAgilityPack.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.xml">
+      <PackagePath>System.Net.Http.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml">
+      <PackagePath>System.Net.Http.Extensions.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\packages\Microsoft.Net.Http.2.2.15\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml">
+      <PackagePath>System.Net.Http.Primitives.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\icon.png">
+      <PackagePath>icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\appbar.arrow.left.right.png">
+      <PackagePath>Resources\appbar.arrow.left.right.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\Emoticons-Guestion-icon.png">
+      <PackagePath>Resources\Emoticons-Guestion-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\ic_vubrestaurant.png">
+      <PackagePath>Resources\ic_vubrestaurant.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\wp_assets_ApplicationIcon.png">
+      <PackagePath>Resources\wp_assets_ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\wp_assets_CatalogueImage.png">
+      <PackagePath>Resources\wp_assets_CatalogueImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\wp_assets_IconicTileMedium.png">
+      <PackagePath>Resources\wp_assets_IconicTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Resources\wp_assets_IconicTileSmall.png">
+      <PackagePath>Resources\wp_assets_IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Robrecht2\Source\Workspaces\RestaurantVUB\RestaurantVUB\RestaurantVUB\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
